@@ -1,0 +1,2 @@
+# DataBase-Using-B-Tree
+B-trees are used in file system, database to provide guarantied logarithmic time key-search, insert, and remove.This report is about implementation of Data Base system using B-tree. The main functions of database are insertion, deletion and searching which can be done by B-tree in logarithmic time.For storing data into secondary memory here we are using file system and creating a binary file for accessing and storing data.
